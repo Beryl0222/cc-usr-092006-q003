@@ -1,0 +1,11 @@
+[
+  {
+    "version": "v2026.09",
+    "effective_at": "2026-09-01T00:00:00+08:00",
+    "account_timezone": "+08:00",
+    "late_upload_grace_minutes": 120,
+    "entry_grace_minutes": 60,
+    "post_match_retention": true,
+    "reschedule_retention": true
+  }
+]
